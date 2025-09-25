@@ -63,7 +63,7 @@ sudo chmod 664 /var/log/myapp.log
 
 ---
 
-### 4. Install CloudWatch Agent
+## 4. Install CloudWatch Agent
 
 Download and install the CloudWatch Agent:
 
