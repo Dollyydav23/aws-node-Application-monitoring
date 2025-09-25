@@ -1,0 +1,6 @@
+const http = require('http');
+const server = http.createServer((req, res) => {
+  res.writeHead(200, {'Content-Type':'text/plain'});
+  res.end("Hello from AWS VM!\n");
+});
+server.listen(80, () => console.log("App running on port 80"));
