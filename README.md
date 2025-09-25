@@ -88,8 +88,9 @@ sudo systemctl enable amazon-cloudwatch-agent
 
 ### 6. Verify Metrics and Logs
 
-<img width="1920" height="912" alt="chrome_MSpvlhX8gh" src="https://github.com/user-attachments/assets/a0bd6b8f-bfc3-4b05-b050-da42b0f0bcd6" />
-<img width="1920" height="912" alt="chrome_RLsHO7ArjM" src="https://github.com/user-attachments/assets/3f164952-c916-4f42-9ca1-2c6dc359c13c" />
+<img width="1920" height="912" alt="Metrics_monitoring" src="https://github.com/user-attachments/assets/5da70b4e-c2b8-49af-8be3-2a6d9f5fa843" />
+<img width="1920" height="912" alt="Log_monitoring" src="https://github.com/user-attachments/assets/ed37e8c9-e2ae-4e09-bcdf-f217ac5fc3e6" />
+
 
 
 
